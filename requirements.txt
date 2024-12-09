@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+asgiref==3.8.1; python_version >= '3.8'
+django==4.2.17; python_version >= '3.8'
+psycopg[binary]==3.2.3; python_version >= '3.8'
+psycopg-binary==3.2.3
+sqlparse==0.5.2; python_version >= '3.8'
+typing-extensions==4.12.2; python_version < '3.13'
