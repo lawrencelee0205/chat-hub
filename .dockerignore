@@ -1,0 +1,7 @@
+.github/
+.gitignore
+docker-compose.yml
+.pre-commmit-config.yaml
+__pycache__
+*.pyc
+.env
