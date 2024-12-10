@@ -8,6 +8,7 @@ django = "==4.2.17"
 psycopg = {extras = ["binary"], version = "==3.2.3"}
 django-extensions = "==3.2.3"
 ipython = "==8.30.0"
+twilio = "==9.3.8"
 
 [dev-packages]
 pre-commit = "==4.0.1"
